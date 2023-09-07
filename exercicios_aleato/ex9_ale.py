@@ -1,0 +1,1 @@
+#Gerar três decimais aleatórios entre [-100 e 100], com até duas casas decimais.

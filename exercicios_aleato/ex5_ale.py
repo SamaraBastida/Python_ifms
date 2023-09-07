@@ -1,0 +1,1 @@
+#Dados dois inteiros m e n, gerar três inteiros aleatórios múltiplos de m entre 0 e n

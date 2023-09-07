@@ -1,0 +1,1 @@
+#Dado um inteiro n, gerar três inteiros aleatórios entre 0 e n.
