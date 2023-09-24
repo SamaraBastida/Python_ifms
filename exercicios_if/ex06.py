@@ -1,5 +1,5 @@
-#Dados dois números, qual o maior deles e a diferença 
-# absoluta entre eles? (a diferença absoluta é o maior menos o menor).
+#Dados dois números, qual o maior deles
+# e a diferença absoluta entre eles? (a diferença absoluta é o maior menos o menor).
 
 a = int(input("insira o primeiro numero "))
 b = int(input("insira o segundo numero "))

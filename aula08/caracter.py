@@ -1,4 +1,4 @@
-print("um texto\0outro texto") # nao faz nada k
+print("um texto\0outro texto") # nao faz nada KKKKK
 print("um texto\aoutro texto") # 
 print("um texto\boutro texto") #tira uma letra
 print("um texto\toutro texto") #da espaco
